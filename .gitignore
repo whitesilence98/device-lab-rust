@@ -1,0 +1,10 @@
+/target/
+/.cargo-home/
+/.npm-cache/
+/data/
+
+# Node / frontend build artifacts
+/node_modules/
+/dist/
+/dist-electron/
+
